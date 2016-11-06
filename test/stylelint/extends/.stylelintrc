@@ -1,3 +1,6 @@
 {
-  "extends": "./extend-stylelint.js"
+  "extends": "./extend-stylelint.js",
+  "rules": {
+    "indentation": 2
+  }
 }
